@@ -1,16 +1,14 @@
-## Hi there 👋
+## boas vindas🖤💙
 
-<!--
-**fabioricardo27/fabioricardo27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**meu nome é Fabio Ricardo Bonfim** 
 
-Here are some ideas to get you started:
+- Este projeto é voltado para o [Alura](https://cursos.alura.com.br/corp/tecnologia-e-robotica-programacao-nem-2-e-3-serie-professor-113476-p705459); 
+- o Projeto é do Repositório Digital: 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### você pode entrar em contato comigo pelo 📧
+
+fabinhobonfim29@gmail.com;
+
+Rickbonfim80@hotmail.com;
+
+![](![image](https://github.com/fabioricardo27/fabioricardo27/assets/170458945/eb3f0676-8009-45fd-9ba0-812c7ee34636)
